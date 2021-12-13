@@ -24,7 +24,7 @@ import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
-public class game extends Application {
+public class BrickGame extends Application {
 
 	static int counter = 0;					//mouse click counter
 	private static int countShot = 1;		//when taking screenshot we increment this and every screenshot gets different name.
